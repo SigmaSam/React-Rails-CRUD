@@ -12,46 +12,32 @@ Additional description about the project and its features.
 - ReactJS, Ruby on Rails
 - Bootstrap
 
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- Ruby: 3
+- Rails 7
+- NodeJS 16
+- ReactJS 18   
 
 ### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Install all gems by running  `bundle install `
+- Create the database using `rails db:create `
+- Migrate the database with `rails db:migrate `
+- Run the seed with `rails db:seed`
 
 
 
-## Authors
+# Authors
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+Samuel Almao Herrera
+- [Github](https://github.com/SigmaSam)
 
 ## 🤝 Contributing
 
