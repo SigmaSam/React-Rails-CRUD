@@ -1,6 +1,6 @@
-# Project Name
+# React-Rails-CRUD 
 
-> One paragraph statement about the project.
+> Simple CRUD article app, integrating Ruby on Rails as Backend and ReactJS as frontend.
 
 ![screenshot](./app_screenshot.png)
 
@@ -8,9 +8,9 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- JavaScript,Ruby
+- ReactJS, Ruby on Rails
+- Bootstrap.
 
 ## Live Demo
 
