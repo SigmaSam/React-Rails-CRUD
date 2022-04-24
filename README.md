@@ -10,7 +10,7 @@ Additional description about the project and its features.
 
 - JavaScript,Ruby
 - ReactJS, Ruby on Rails
-- Bootstrap.
+- Bootstrap
 
 ## Live Demo
 
